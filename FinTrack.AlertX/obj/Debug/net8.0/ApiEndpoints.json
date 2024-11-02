@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "FinTrack.AlertX.Controllers.NotificationController",
+    "Method": "GetNotifications",
+    "RelativePath": "api/Notification/notifications",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinTrack.AlertX.Controllers.NotificationController",
+    "Method": "SendNotification",
+    "RelativePath": "api/Notification/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "message",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

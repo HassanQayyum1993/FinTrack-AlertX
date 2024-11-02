@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:80" # Map the app's port 80 to localhost:5000
+    depends_on:
+      - sqlserver
+      - mongodb
+      - rabbitmq
+    environment:
+      - ConnectionStrings__SqlServer=Server=localhost,1433;Database=FinTrackDB;User Id=sa;Password=YourStrong@Passw0rd;
+      - ConnectionStrings__MongoDB=mongodb://mongodb:27017
+      - RabbitMQ__Host=rabbitmq
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=YourStrong@Passw0rd
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+
+  mongodb:
+    image: mongo:5.0
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"   # RabbitMQ service port
+      - "15672:15672" # RabbitMQ management UI port
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+
+volumes:
+  sql_data:
+  mongo_data:

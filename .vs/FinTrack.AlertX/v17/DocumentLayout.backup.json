@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FinTrack.AlertX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|d:\\fintrack.alertx\\fintrack.alertx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|solutionrelative:fintrack.alertx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|d:\\fintrack.alertx\\fintrack.alertx\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|solutionrelative:fintrack.alertx\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|d:\\fintrack.alertx\\fintrack.alertx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|solutionrelative:fintrack.alertx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|d:\\fintrack.alertx\\fintrack.alertx\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|solutionrelative:fintrack.alertx\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|d:\\fintrack.alertx\\fintrack.alertx\\services\\messagequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|solutionrelative:fintrack.alertx\\services\\messagequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|d:\\fintrack.alertx\\fintrack.alertx\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|solutionrelative:fintrack.alertx\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|d:\\fintrack.alertx\\fintrack.alertx\\models\\userpreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|solutionrelative:fintrack.alertx\\models\\userpreferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|d:\\fintrack.alertx\\fintrack.alertx\\repositories\\userpreferencesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|solutionrelative:fintrack.alertx\\repositories\\userpreferencesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|d:\\fintrack.alertx\\fintrack.alertx\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|solutionrelative:fintrack.alertx\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|d:\\fintrack.alertx\\fintrack.alertx\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|solutionrelative:fintrack.alertx\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|d:\\fintrack.alertx\\fintrack.alertx\\fintrack.alertx.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A71D390A-C67A-4872-95AF-E575AA9202D3}|FinTrack.AlertX\\FinTrack.AlertX.csproj|solutionrelative:fintrack.alertx\\fintrack.alertx.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1029,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Program.cs",
+              "RelativeDocumentMoniker": "FinTrack.AlertX\\Program.cs",
+              "ToolTip": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Program.cs",
+              "RelativeToolTip": "FinTrack.AlertX\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:06:01.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageQueueService.cs",
+              "DocumentMoniker": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Services\\MessageQueueService.cs",
+              "RelativeDocumentMoniker": "FinTrack.AlertX\\Services\\MessageQueueService.cs",
+              "ToolTip": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Services\\MessageQueueService.cs",
+              "RelativeToolTip": "FinTrack.AlertX\\Services\\MessageQueueService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:38:19.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "FinTrack.AlertX\\Services\\NotificationService.cs",
+              "ToolTip": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Services\\NotificationService.cs",
+              "RelativeToolTip": "FinTrack.AlertX\\Services\\NotificationService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:37:30.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "FinTrack.AlertX\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "FinTrack.AlertX\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:09:53.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\appsettings.json",
+              "RelativeDocumentMoniker": "FinTrack.AlertX\\appsettings.json",
+              "ToolTip": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\appsettings.json",
+              "RelativeToolTip": "FinTrack.AlertX\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T12:48:57.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "FinTrack.AlertX\\Models\\Notification.cs",
+              "ToolTip": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Models\\Notification.cs",
+              "RelativeToolTip": "FinTrack.AlertX\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:36:57.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserPreferences.cs",
+              "DocumentMoniker": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Models\\UserPreferences.cs",
+              "RelativeDocumentMoniker": "FinTrack.AlertX\\Models\\UserPreferences.cs",
+              "ToolTip": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Models\\UserPreferences.cs",
+              "RelativeToolTip": "FinTrack.AlertX\\Models\\UserPreferences.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:36:17.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserPreferencesRepository.cs",
+              "DocumentMoniker": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Repositories\\UserPreferencesRepository.cs",
+              "RelativeDocumentMoniker": "FinTrack.AlertX\\Repositories\\UserPreferencesRepository.cs",
+              "ToolTip": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Repositories\\UserPreferencesRepository.cs",
+              "RelativeToolTip": "FinTrack.AlertX\\Repositories\\UserPreferencesRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:39:05.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FinTrack.AlertX\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FinTrack.AlertX\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:53:10.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificationRepository.cs",
+              "DocumentMoniker": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Repositories\\NotificationRepository.cs",
+              "RelativeDocumentMoniker": "FinTrack.AlertX\\Repositories\\NotificationRepository.cs",
+              "ToolTip": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\Repositories\\NotificationRepository.cs",
+              "RelativeToolTip": "FinTrack.AlertX\\Repositories\\NotificationRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:45:44.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FinTrack.AlertX",
+              "DocumentMoniker": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\FinTrack.AlertX.csproj",
+              "RelativeDocumentMoniker": "FinTrack.AlertX\\FinTrack.AlertX.csproj",
+              "ToolTip": "D:\\FinTrack.AlertX\\FinTrack.AlertX\\FinTrack.AlertX.csproj",
+              "RelativeToolTip": "FinTrack.AlertX\\FinTrack.AlertX.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T12:54:14.992Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
